@@ -137,9 +137,3 @@ docker run -p 8000:8000 industrial-ml-demo
 
 6. **Next improvements**  
    Add drift monitoring, online learning, PLC/SCADA ingestion, MLflow registry, and real maintenance labels.
-
-## Suggested GitHub repository name
-
-```text
-industrial-iot-anomaly-rca-dashboard
-```
