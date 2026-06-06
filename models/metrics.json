@@ -1,0 +1,73 @@
+{
+  "classification_report": {
+    "energy_inefficiency": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 55.0
+    },
+    "overheating": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 110.0
+    },
+    "pressure_drop": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 55.0
+    },
+    "vibration_instability": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 110.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 330.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 330.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      55,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      110,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      55,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      110
+    ]
+  ],
+  "labels": [
+    "energy_inefficiency",
+    "overheating",
+    "pressure_drop",
+    "vibration_instability"
+  ]
+}

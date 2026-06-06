@@ -2,6 +2,4 @@ __pycache__/
 *.pyc
 venv/
 .env
-models/
-*.joblib
 .DS_Store
